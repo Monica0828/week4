@@ -1,0 +1,7 @@
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week4\AnimalHierarchy\AnimalHierarchy\bin\Debug\AnimalHierarchy.exe.config
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week4\AnimalHierarchy\AnimalHierarchy\bin\Debug\AnimalHierarchy.exe
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week4\AnimalHierarchy\AnimalHierarchy\bin\Debug\AnimalHierarchy.pdb
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week4\AnimalHierarchy\AnimalHierarchy\obj\Debug\AnimalHierarchy.csprojAssemblyReference.cache
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week4\AnimalHierarchy\AnimalHierarchy\obj\Debug\AnimalHierarchy.csproj.CoreCompileInputs.cache
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week4\AnimalHierarchy\AnimalHierarchy\obj\Debug\AnimalHierarchy.exe
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week4\AnimalHierarchy\AnimalHierarchy\obj\Debug\AnimalHierarchy.pdb
