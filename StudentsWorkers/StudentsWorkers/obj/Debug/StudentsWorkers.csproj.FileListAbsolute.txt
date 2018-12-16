@@ -1,0 +1,7 @@
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week4\StudentsWorkers\StudentsWorkers\obj\Debug\StudentsWorkers.csprojAssemblyReference.cache
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week4\StudentsWorkers\StudentsWorkers\obj\Debug\StudentsWorkers.csproj.CoreCompileInputs.cache
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week4\StudentsWorkers\StudentsWorkers\bin\Debug\StudentsWorkers.exe.config
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week4\StudentsWorkers\StudentsWorkers\bin\Debug\StudentsWorkers.exe
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week4\StudentsWorkers\StudentsWorkers\bin\Debug\StudentsWorkers.pdb
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week4\StudentsWorkers\StudentsWorkers\obj\Debug\StudentsWorkers.exe
+C:\Users\mdanca\Documents\Wantsome\Homeworks\week4\StudentsWorkers\StudentsWorkers\obj\Debug\StudentsWorkers.pdb
